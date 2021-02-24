@@ -1,0 +1,16 @@
+{
+  "name": "upload-img-plugin",
+  "version": "1.0.0",
+  "main": "index.html",
+  "author": "vadim_bk<bondar0071312@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "firebase": "^8.2.5"
+  }
+}
